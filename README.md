@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/v5hxql4ohr0c96j6?svg=true)](https://ci.appveyor.com/project/aaogoltcov/jscrmgoodstable)
+[![Build status](https://ci.appveyor.com/api/projects/status/x2sbur1i7nkdc4ek?svg=true)](https://ci.appveyor.com/project/aaogoltcov/jstrello)
